@@ -1,0 +1,9 @@
+<resources>
+    <string name="question">What kind of animal is this?</string>
+    <string name="placeholder">What species is this?</string>
+    <string name="confirm">Confirm</string>
+    <string name="giraffe">Giraffe</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect, the correct answer is Giraffe!</string>
+    <string name="app_name">MAD level 1 example</string>
+</resources>
